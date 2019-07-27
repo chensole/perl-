@@ -28,7 +28,7 @@ use strict;
 		print;
 	}
 
-	_DATA_ 
+	__DATA__              # 注意这里是两个下划线 
 
 	HERE
 	is
@@ -37,7 +37,7 @@ use strict;
 
 
 
-	_END_ 
+	__END__ 
 	here 
 	is 
 	the 
